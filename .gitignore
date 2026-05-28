@@ -2,3 +2,6 @@
 __pycache__/
 output/
 *.pyc
+
+MySQL_Scripts/sakila-data.sql
+MySQL_Scripts/sakila-schema-DataDML.sql
